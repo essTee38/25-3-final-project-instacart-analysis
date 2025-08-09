@@ -1,0 +1,1 @@
+Download files from https://www.kaggle.com/datasets/psparks/instacart-market-basket-analysis/data and place individual csv files in this folder.
