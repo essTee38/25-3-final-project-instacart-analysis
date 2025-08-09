@@ -48,4 +48,3 @@ The notebook uses 5 csv files:
 3. products.csv
 4. aisles.csv
 5. departments.csv
-6. 
